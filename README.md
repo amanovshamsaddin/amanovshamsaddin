@@ -81,11 +81,3 @@ Exploring themes of:
 🎧 Host of *Var Olma Lüksü* — philosophy podcast  
 ⚽ Galatasaray supporter  
 🎬 Admirer of auteur cinema
-
----
-
-<div align="center">
-
-*"Highlighting the importance of consent in moral authority."*
-
-</div>
