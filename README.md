@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Shamsaddin Amanov 👋
-### Data Scientist | Builder | Philosopher
+### Full-time Data Scientist | Part-time Philosopher
 
 🌏 Melbourne, Australia  
 🎓 Master of Data Science — Monash University  
