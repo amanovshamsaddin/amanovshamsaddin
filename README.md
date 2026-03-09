@@ -59,25 +59,3 @@ A growing portfolio of analytics models, data tools, and applied data science pr
 🌐 https://DataVery.app
 
 More projects coming soon as I expand my public research and applied work.
-
----
-
-## 🏛️ Philosophy
-
-📖 Founder of **Omittoism**  
-Author of *The Manifesto of Omittoism*
-
-Exploring themes of:
-
-• Consent as moral foundation  
-• Authority and legitimacy  
-• Human systems and responsibility
-
----
-
-## 🎙️ Beyond Data
-
-♟️ Competitive chess player (FIDE ID: 13454528)  
-🎧 Host of *Var Olma Lüksü* — philosophy podcast  
-⚽ Galatasaray supporter  
-🎬 Admirer of auteur cinema
