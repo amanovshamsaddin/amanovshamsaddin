@@ -6,10 +6,10 @@
 
 <br/>
 
-I am a Data Scientist currently based in Melbourne, Australia. I am passionate about building data-driven solutions.
+I am a Data Scientist currently based in Melbourne, Australia, bridging the gap between technical analytics and meaningful outputs. I am passionate about building data-driven solutions.
 
 ### 🔭 Current Academic Focus: Core Master's Studies
-Advancing through the core modules of my **Master of Data Science** at **Monash University** (March 2026 - December 2027):
+Advancing through the core modules of my **Master of Data Science** at **Monash University**:
 * **Data Engineering & Processing:** Data Wrangling, Data Processing for Big Data.
 * **Analytics & Modelling:** Foundations of Data Science, Statistical Data Modelling.
 * **Visualisation & Research:** Data Exploration and Visualisation, IT Research and Innovation Methods.
@@ -17,11 +17,11 @@ Advancing through the core modules of my **Master of Data Science** at **Monash 
 ### 🛠️ Technical Expertise & Core Competencies
 As a Data Scientist, my expertise spans the entire data lifecycle, combining rigorous mathematical theory with advanced computational engineering.
 
-* [cite_start]**Data Engineering & Architecture:** Expertise in designing and managing robust data pipelines, utilizing Computer Architecture & Networks [cite: 3][cite_start], and executing Data Processing for Big Data environments[cite: 6]. 
-* [cite_start]**Advanced Analytics & Modelling:** Proficient in Statistical Data Modelling [cite: 6][cite_start], Applied Data Analysis [cite: 9][cite_start], and building predictive models via Machine Learning[cite: 9].
-* [cite_start]**Data Wrangling & Visualisation:** Comprehensive skills in Data Wrangling [cite: 6] (cleaning, transforming, and preparing complex datasets) [cite_start]alongside advanced Data Exploration and Visualisation[cite: 6].
-* [cite_start]**Mathematical Rigor:** Deep theoretical grounding in Linear Algebra, Calculus, Probability, and Mathematical Foundations for Data Science & AI[cite: 3].
-* [cite_start]**Research & Leadership:** Experienced in IT Research and Innovation Methods [cite: 6][cite_start], technical Project Management [cite: 6][cite_start], and Professional Practice [cite: 14, 17] for delivering industry-ready solutions.
+* **Data Engineering & Architecture:** Expertise in designing and managing robust data pipelines, utilizing Computer Architecture & Networks, and executing Data Processing for Big Data environments.
+* **Advanced Analytics & Modelling:** Proficient in Statistical Data Modelling, Applied Data Analysis, and building predictive models via Machine Learning.
+* **Data Wrangling & Visualisation:** Comprehensive skills in Data Wrangling (cleaning, transforming, and preparing complex datasets) alongside advanced Data Exploration and Visualisation.
+* **Mathematical Rigor:** Deep theoretical grounding in Linear Algebra, Calculus, Probability, and Mathematical Foundations for Data Science & AI.
+* **Research & Leadership:** Experienced in IT Research and Innovation Methods, technical Project Management, and Professional Practice for delivering industry-ready solutions.
 
 ### 💻 Languages & Tech Stack
 <p align="left">
@@ -38,12 +38,12 @@ As a Data Scientist, my expertise spans the entire data lifecycle, combining rig
 
 ### 🧠 Projects & Philosophy
 * 💻 **Portfolio:** Building out technical solutions and analytics models at **[DataVery.app](https://DataVery.app)**.
-* 🏛️ **Omittoism:** Architect and founder of an post-theistic philosophical framework, and author of *The Manifesto of Omittoism*.
+* 🏛️ **Omittoism:** Architect and founder of an intersectional philosophical framework, and author of *The Manifesto of Omittoism*.
 
 ### ⚡ A Little More About Me
 * 🎙️ **Podcaster:** I host and run *Var Olma Lüksü* (The Luxury of Being), a Turkish philosophy podcast with over 11K followers.
 * ♟️ **Strategist:** Competitive chess player (FIDE ID: 13454528) and passionate Galatasaray supporter.
-* ☕ **Culture:** Advocate for auteur cinema (Kiarostami, NBC, Park Chan-wook) and great Cortados.
+* ☕ **Culture:** Advocate for auteur cinema (Kiarostami, Park Chan-wook) and great Cortados.
 
 <br/>
 
